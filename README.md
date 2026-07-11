@@ -19,7 +19,7 @@
 
 ---
 
-### Full-Stack Developer | DevOps Learner | Tech Enthusiast
+### Full-Stack Developer | UI & DevOps Learner | AI Enthusiast
 
 Welcome to my digital space! I am a passionate engineering student deeply invested in building scalable web ecosystems, exploring the crossroads of Agentic-IoT, and streamlining deployments with automation. I love converting ideas into interactive, optimized, and containerized applications.
 
