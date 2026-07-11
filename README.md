@@ -1,4 +1,3 @@
-# 🚀 Hey there! I'm Azad 
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
     <tr>
