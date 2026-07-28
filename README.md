@@ -12,8 +12,6 @@
     </tr>
   </table>
 
-![Header Image](header-image.png)
-
   <br /><br />
 </div>
 
