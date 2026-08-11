@@ -17,9 +17,8 @@
 
 ---
 
-### Full-Stack Developer
+### Engineer with too many interests & Full-Stack Developer
 
-Welcome to my digital space! I am a passionate engineering student deeply invested in building scalable web ecosystems, exploring the crossroads of Agentic-IoT, and streamlining deployments with automation. I love converting ideas into interactive, optimized, and containerized applications.
 
 ---
 
