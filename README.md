@@ -11,14 +11,7 @@
       </td>
     </tr>
   </table>
-
-  <br /><br />
 </div>
-
----
-
-### Engineer with too many interests & Full-Stack Developer
-
 
 ---
 
@@ -26,12 +19,11 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React.js, Next.js, Vite, Tailwind CSS, JavaScript/TypeScript, shadcn/ui, GSAP,|
-| **Backend** | Node.js, Next.js, Spring Boot|
+| **Frontend** | React.js, Next.js, Vite, Tailwind CSS, JavaScript/TypeScript, shadcn/ui, GSAP|
+| **Backend** | Node.js, Next.js |
 | **DevOps & Infrastructure** | Docker, AWS (EC2, VPC), Linux/Terminal, Git/GitHub |
 | **AI & Core Concepts** | Generative AI integration, Retrieval-Augmented Generation (RAG), System Prompting |
 | **Languages & Core** | C++, Python, JavaScript, Java, Data Structures & Algorithms (DSA) |
 
----
 
 ## Featured Projects
