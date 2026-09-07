@@ -17,4 +17,4 @@
 
 ## Primary Stacks
 
-|SAP ABAP, CAP CDS, React.js, Next.js, Postgres, Drizzle, MongoDB, Shadcn, GSAP.
+| SAP ABAP, CAP CDS, React.js, Next.js, Postgres, Drizzle, MongoDB, Shadcn, GSAP.
